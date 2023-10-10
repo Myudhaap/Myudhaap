@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <span>- 👨‍💻 All of my projects are available at <a href="mayutamadev.netlify.app" target="blank">My Portofolio</a></span>  
+  <span>- 👨‍💻 All of my projects are available at <a href="/mayutamadev.netlify.app" target="blank">My Portofolio</a></span>  
 </p>
 
 <h3 align="center">Connect with me:</h3>
