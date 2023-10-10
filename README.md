@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <span>- 👨‍💻 All of my projects are available at <a href="/mayutamadev.netlify.app" target="blank">My Portofolio</a></span>  
+  <span>- 👨‍💻 All of my projects are available at <a target="_blank" href="https://mayutamadev.netlify.app" target="blank">My Portofolio</a></span>  
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/muhammad yudha adi pratama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad yudha adi pratama" height="30" width="40" /></a>
-<a href="https://instagram.com/myudha_ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myudha_ap" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad yudha adi pratama" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad yudha adi pratama" height="30" width="40" /></a>
+<a href="https://instagram.com/myudha_ap" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myudha_ap" height="30" width="40" /></a>
 </p>
 
 ---
