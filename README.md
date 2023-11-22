@@ -26,6 +26,8 @@
 | --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
 | I-Food | - | [https://github.com/Myudhaap/I-Food](https://github.com/Myudhaap/I-Food)          | HTML, CSS, JS |
 | Grocery-Store | - | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/Grocey-Store) | HTML, CSS, JS |
+| E-Store | - | [https://github.com/Myudhaap/E-Store](https://github.com/Myudhaap/E-Store) | HTML, CSS, JS |
+| Portofolio V1 | - | [https://github.com/Myudhaap/Portofolio](https://github.com/Myudhaap/Portofolio) | HTML, CSS, JS |
 
 ---
 
@@ -33,8 +35,11 @@
 
 | Project Name          | Link Deployment                                                 | Link Repo Github                                                | Tech Stack 	                                             	|
 | --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
-| - | - | [https://github.com/Myudhaap/I-Food](https://github.com/Myudhaap/I-Food)          | HTML, CSS, JS |
-| - | - | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/Grocey-Store) | HTML, CSS, JS |
+| Weather App | - | [https://github.com/Myudhaap/weather-app](https://github.com/Myudhaap/weather-app) | HTML, CSS, JS, API([https://api.openweathermap.org/](https://api.openweathermap.org/)) |
+| Pokemon App | - | [https://github.com/Myudhaap/pokemon-app](https://github.com/Myudhaap/pokemon-app) | HTML, CSS, JS, API([https://pokeapi.co](https://pokeapi.co)) |
+| Recipe App | - | [https://github.com/Myudhaap/recipe-app](https://github.com/Myudhaap/recipe-app) | HTML, CSS, JS, API([https://github.com/Myudhaap/recipe-app](https://www.themealdb.com)) |
+| News App | - | [https://github.com/Myudhaap/news-app](https://github.com/Myudhaap/news-app) | HTML, CSS, JS, API([https://newsapi.org/](https://newsapi.org/)) |
+| Marvel App | - | [https://github.com/Myudhaap/marvel-app](https://github.com/Myudhaap/marvel-app) | HTML, CSS, JS, API([http://gateway.marvel.com](http://gateway.marvel.com))
 
 
 
@@ -57,6 +62,8 @@
 | Movie List App | [Link](https://mayutama.000webhostapp.com/) | [https://github.com/Myudhaap/I-Food](https://github.com/Myudhaap/Movie-App-Laravel) | Laravel, Livewire, Alpinejs, Tailwind |
 | My Portofolio | [Link](https://mayutamadev.netlify.app/) | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/Grocey-Store) | Reactjs, Framer Motion, Swiperjs, Tailwind |
 | MERN Blog Tour | [Link](https://blog-tour.netlify.app/) | [https://github.com/Myudhaap/MERN-BlogTour](https://github.com/Myudhaap/MERN-BlogTour) | MongooDB, Expressjs, Reactjs, Nodejs, Tailwind, Redux |
+| Mini Dashboard Gudang | [Link](-) | [https://github.com/Myudhaap/gudang-laravel/](https://github.com/Myudhaap/gudang-laravel/) | Laravel, jquery, ajax, echartjs, bootstrap |
+| Tictactoe | - | [https://github.com/Myudhaap/tictactoe](https://github.com/Myudhaap/tictactoe) | HTML, CSS, JS |
 
 ---
 
