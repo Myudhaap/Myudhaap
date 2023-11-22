@@ -62,8 +62,8 @@
 | Movie List App | [Link](https://mayutama.000webhostapp.com/) | [https://github.com/Myudhaap/I-Food](https://github.com/Myudhaap/Movie-App-Laravel) | Laravel, Livewire, Alpinejs, Tailwind |
 | My Portofolio | [Link](https://mayutamadev.netlify.app/) | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/Grocey-Store) | Reactjs, Framer Motion, Swiperjs, Tailwind |
 | MERN Blog Tour | [Link](https://blog-tour.netlify.app/) | [https://github.com/Myudhaap/MERN-BlogTour](https://github.com/Myudhaap/MERN-BlogTour) | MongooDB, Expressjs, Reactjs, Nodejs, Tailwind, Redux |
-| Mini Dashboard Gudang | [Link](-) | [https://github.com/Myudhaap/gudang-laravel/](https://github.com/Myudhaap/gudang-laravel/) | Laravel, jquery, ajax, echartjs, bootstrap |
-| Tictactoe | - | [https://github.com/Myudhaap/tictactoe](https://github.com/Myudhaap/tictactoe) | HTML, CSS, JS |
+| Mini Dashboard Gudang | - | [https://github.com/Myudhaap/gudang-laravel/](https://github.com/Myudhaap/gudang-laravel/) | Laravel, jquery, ajax, echartjs, bootstrap |
+| Tictactoe | [Link](mayutama-dev-game-tictactoe.netlify.app) | [https://github.com/Myudhaap/tictactoe](https://github.com/Myudhaap/tictactoe) | HTML, CSS, JS |
 
 ---
 
