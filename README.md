@@ -49,8 +49,8 @@
 
 | Project Name          | Link Deployment                                                 | Link Repo Github                                                | Tech Stack 	                                             	|
 | --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
-| Blog Tour REST API | - | [https://github.com/Myudhaap/blogtour-api](https://github.com/Myudhaap/blogtour-api) | Nodejs, Expressjs, MongooDB, JWT |
-| Login Register Server | - | [https://github.com/Myudhaap/Login-Register-Server](https://github.com/Myudhaap/Login-Register-Server) | Nodejs, Expressjs, MongooDB, JWT |
+| Blog Tour REST API | [Link](https://blogtour-api.up.railway.app/) | [https://github.com/Myudhaap/blogtour-api](https://github.com/Myudhaap/blogtour-api) | Nodejs, Expressjs, MongooDB, JWT |
+| Login Register Server | [Link](https://login-register-server-production.up.railway.app/) | [https://github.com/Myudhaap/Login-Register-Server](https://github.com/Myudhaap/Login-Register-Server) | Nodejs, Expressjs, MongooDB, JWT |
 
 
 ---
@@ -63,7 +63,7 @@
 | My Portofolio | [Link](https://mayutamadev.netlify.app/) | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/Grocey-Store) | Reactjs, Framer Motion, Swiperjs, Tailwind |
 | MERN Blog Tour | [Link](https://blog-tour.netlify.app/) | [https://github.com/Myudhaap/MERN-BlogTour](https://github.com/Myudhaap/MERN-BlogTour) | MongooDB, Expressjs, Reactjs, Nodejs, Tailwind, Redux |
 | Mini Dashboard Gudang | [Link](https://mini-dashboard-gudang.000webhostapp.com/) | [https://github.com/Myudhaap/gudang-laravel/](https://github.com/Myudhaap/gudang-laravel/) | Laravel, jquery, ajax, echartjs, bootstrap |
-| Login Register React | [Link](-) | [https://github.com/Myudhaap/Login-Register-React](https://github.com/Myudhaap/Login-Register-React) | MongooDB, ExpressJs, React, NodeJs, Tailwind, JWT |
+| Login Register React | [Link](https://mayutama-auth.netlify.app/profile) | [https://github.com/Myudhaap/Login-Register-React](https://github.com/Myudhaap/Login-Register-React) | MongooDB, ExpressJs, React, NodeJs, Tailwind, JWT |
 | Tictactoe | [Link](mayutama-dev-game-tictactoe.netlify.app) | [https://github.com/Myudhaap/tictactoe](https://github.com/Myudhaap/tictactoe) | HTML, CSS, JS |
 
 ---
