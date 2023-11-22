@@ -37,7 +37,7 @@
 | --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Weather App | - | [https://github.com/Myudhaap/weather-app](https://github.com/Myudhaap/weather-app) | HTML, CSS, JS, API([https://api.openweathermap.org/](https://api.openweathermap.org/)) |
 | Pokemon App | - | [https://github.com/Myudhaap/pokemon-app](https://github.com/Myudhaap/pokemon-app) | HTML, CSS, JS, API([https://pokeapi.co](https://pokeapi.co)) |
-| Recipe App | - | [https://github.com/Myudhaap/recipe-app](https://github.com/Myudhaap/recipe-app) | HTML, CSS, JS, API([https://github.com/Myudhaap/recipe-app](https://www.themealdb.com)) |
+| Recipe App | - | [https://github.com/Myudhaap/recipe-app](https://github.com/Myudhaap/recipe-app) | HTML, CSS, JS, API([https://www.themealdb.com](https://www.themealdb.com)) |
 | News App | - | [https://github.com/Myudhaap/news-app](https://github.com/Myudhaap/news-app) | HTML, CSS, JS, API([https://newsapi.org/](https://newsapi.org/)) |
 | Marvel App | - | [https://github.com/Myudhaap/marvel-app](https://github.com/Myudhaap/marvel-app) | HTML, CSS, JS, API([http://gateway.marvel.com](http://gateway.marvel.com))
 
