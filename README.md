@@ -44,8 +44,7 @@
 
 | Project Name          | Link Deployment                                                 | Link Repo Github                                                | Tech Stack 	                                             	|
 | --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
-| - | - | [https://github.com/Myudhaap/I-Food](https://github.com/Myudhaap/I-Food)          | HTML, CSS, JS |
-| - | - | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/Grocey-Store) | HTML, CSS, JS |
+| Blog Tour REST API | - | [https://github.com/Myudhaap/blogtour-api](https://github.com/Myudhaap/blogtour-api) | Nodejs, Expressjs, MongooDB, JWT |
 
 
 
