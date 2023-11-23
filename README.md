@@ -27,7 +27,10 @@
 | I-Food | - | [https://github.com/Myudhaap/I-Food](https://github.com/Myudhaap/I-Food)          | HTML, CSS, JS |
 | Grocery-Store | - | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/Grocey-Store) | HTML, CSS, JS |
 | E-Store | - | [https://github.com/Myudhaap/E-Store](https://github.com/Myudhaap/E-Store) | HTML, CSS, JS |
-| Portofolio V1 | - | [https://github.com/Myudhaap/Portofolio](https://github.com/Myudhaap/Portofolio) | HTML, CSS, JS |
+| Portofolio V1 | [Link](https://myudhaap.github.io/Portofolio/) | [https://github.com/Myudhaap/Portofolio](https://github.com/Myudhaap/Portofolio) | HTML, CSS, JS |
+| Mayutama.blog | [Link](mayutama-blog.netlify.app) | [https://github.com/Myudhaap/Mayutama.blog](https://github.com/Myudhaap/Mayutama.blog) | HTML, CSS, JS |
+| Surabaya Profile | [Link](surabaya-profile.netlify.app) | [https://github.com/Myudhaap/Surabaya-profile](https://github.com/Myudhaap/Surabaya-profile) | HTML , CSS, JS |
+
 
 ---
 
@@ -35,12 +38,14 @@
 
 | Project Name          | Link Deployment                                                 | Link Repo Github                                                | Tech Stack 	                                             	|
 | --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
+| BArchive | [Link](https://barchive.netlify.app/) | [https://github.com/Myudhaap/BArchive](https://github.com/Myudhaap/BArchive) | HTML, CSS, JS |
+| Todo List Sederhana | [Link](mayutama-todo.netlify.app) | [https://github.com/Myudhaap/todo-list-sederhana](https://github.com/Myudhaap/todo-list-sederhana) | HTML, CSS, JS |
 | Weather App | - | [https://github.com/Myudhaap/weather-app](https://github.com/Myudhaap/weather-app) | HTML, CSS, JS, API([https://api.openweathermap.org/](https://api.openweathermap.org/)) |
 | Pokemon App | - | [https://github.com/Myudhaap/pokemon-app](https://github.com/Myudhaap/pokemon-app) | HTML, CSS, JS, API([https://pokeapi.co](https://pokeapi.co)) |
 | Recipe App | - | [https://github.com/Myudhaap/recipe-app](https://github.com/Myudhaap/recipe-app) | HTML, CSS, JS, API([https://www.themealdb.com](https://www.themealdb.com)) |
 | News App | - | [https://github.com/Myudhaap/news-app](https://github.com/Myudhaap/news-app) | HTML, CSS, JS, API([https://newsapi.org/](https://newsapi.org/)) |
 | Marvel App | - | [https://github.com/Myudhaap/marvel-app](https://github.com/Myudhaap/marvel-app) | HTML, CSS, JS, API([http://gateway.marvel.com](http://gateway.marvel.com))
-
+| MyContact | [Link](mayutama-contact.netlify.app) | [https://github.com/Myudhaap/MyContact](https://github.com/Myudhaap/MyContact) | React, CSS |
 
 
 ---
@@ -64,6 +69,8 @@
 | MERN Blog Tour | [Link](https://blog-tour.netlify.app/) | [https://github.com/Myudhaap/MERN-BlogTour](https://github.com/Myudhaap/MERN-BlogTour) | MongooDB, Expressjs, Reactjs, Nodejs, Tailwind, Redux |
 | Mini Dashboard Gudang | [Link](https://mini-dashboard-gudang.000webhostapp.com/) | [https://github.com/Myudhaap/gudang-laravel/](https://github.com/Myudhaap/gudang-laravel/) | Laravel, jquery, ajax, echartjs, bootstrap |
 | Login Register React | [Link](https://mayutama-auth.netlify.app/profile) | [https://github.com/Myudhaap/Login-Register-React](https://github.com/Myudhaap/Login-Register-React) | MongooDB, ExpressJs, React, NodeJs, Tailwind, JWT |
+| My Note | [Link](mayutama-mynote.netlify.app) | [https://github.com/Myudhaap/MyNote](https://github.com/Myudhaap/MyNote) | ReactJs, Css |
+| BArchive | [Link](https://barchive.netlify.app/) | [https://github.com/Myudhaap/BArchive](https://github.com/Myudhaap/BArchive) | HTML, CSS, JS |
 | Tictactoe | [Link](mayutama-dev-game-tictactoe.netlify.app) | [https://github.com/Myudhaap/tictactoe](https://github.com/Myudhaap/tictactoe) | HTML, CSS, JS |
 
 ---
