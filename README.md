@@ -28,7 +28,7 @@
 | Grocery-Store | - | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/Grocey-Store) | HTML, CSS, JS |
 | E-Store | - | [https://github.com/Myudhaap/E-Store](https://github.com/Myudhaap/E-Store) | HTML, CSS, JS |
 | Portofolio V1 | [Link](https://myudhaap.github.io/Portofolio/) | [https://github.com/Myudhaap/Portofolio](https://github.com/Myudhaap/Portofolio) | HTML, CSS, JS |
-| Mayutama.blog | [Link](mayutama-blog.netlify.app) | [https://github.com/Myudhaap/Mayutama.blog](https://github.com/Myudhaap/Mayutama.blog) | HTML, CSS, JS |
+| Mayutama.blog | [Link](https://mayutama-blog.netlify.app) | [https://github.com/Myudhaap/Mayutama.blog](https://github.com/Myudhaap/Mayutama.blog) | HTML, CSS, JS |
 | Surabaya Profile | [Link](surabaya-profile.netlify.app) | [https://github.com/Myudhaap/Surabaya-profile](https://github.com/Myudhaap/Surabaya-profile) | HTML , CSS, JS |
 
 
