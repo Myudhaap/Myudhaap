@@ -25,7 +25,7 @@
 | Project Name          | Link Deployment                                                 | Link Repo Github                                                | Tech Stack 	                                             	|
 | --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
 | I-Food | - | [https://github.com/Myudhaap/I-Food](https://github.com/Myudhaap/I-Food)          | HTML, CSS, JS |
-| Grocery-Store | - | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/Grocey-Store) | HTML, CSS, JS |
+| Grocery-Store | - | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/Grocery-Store) | HTML, CSS, JS |
 | E-Store | - | [https://github.com/Myudhaap/E-Store](https://github.com/Myudhaap/E-Store) | HTML, CSS, JS |
 | Portofolio V1 | [Link](https://myudhaap.github.io/Portofolio/) | [https://github.com/Myudhaap/Portofolio](https://github.com/Myudhaap/Portofolio) | HTML, CSS, JS |
 | Mayutama.blog | [Link](https://mayutama-blog.netlify.app) | [https://github.com/Myudhaap/Mayutama.blog](https://github.com/Myudhaap/Mayutama.blog) | HTML, CSS, JS |
@@ -65,7 +65,7 @@
 | Project Name          | Link Deployment                                                 | Link Repo Github                                                | Tech Stack 	                                             	|
 | --------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Movie List App | [Link](https://mayutama.000webhostapp.com/) | [https://github.com/Myudhaap/I-Food](https://github.com/Myudhaap/Movie-App-Laravel) | Laravel, Livewire, Alpinejs, Tailwind |
-| My Portofolio | [Link](https://mayutamadev.netlify.app/) | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/Grocey-Store) | Reactjs, Framer Motion, Swiperjs, Tailwind |
+| My Portofolio | [Link](https://mayutamadev.netlify.app/) | [https://github.com/Myudhaap/Grocery-Store](https://github.com/Myudhaap/react-portofolio) | Reactjs, Framer Motion, Swiperjs, Tailwind |
 | MERN Blog Tour | [Link](https://blog-tour.netlify.app/) | [https://github.com/Myudhaap/MERN-BlogTour](https://github.com/Myudhaap/MERN-BlogTour) | MongooDB, Expressjs, Reactjs, Nodejs, Tailwind, Redux |
 | Mini Dashboard Gudang | [Link](https://mini-dashboard-gudang.000webhostapp.com/) | [https://github.com/Myudhaap/gudang-laravel/](https://github.com/Myudhaap/gudang-laravel/) | Laravel, jquery, ajax, echartjs, bootstrap |
 | Login Register React | [Link](https://mayutama-auth.netlify.app/profile) | [https://github.com/Myudhaap/Login-Register-React](https://github.com/Myudhaap/Login-Register-React) | MongooDB, ExpressJs, React, NodeJs, Tailwind, JWT |
